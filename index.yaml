@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  apple:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-09-16T23:16:13.853007+02:00"
+    description: A Helm chart for Kubernetes
+    digest: 2f8971315a7d80737fa900c6b6595f9d65be23b31c822bf67d368db750191ddb
+    name: apple
+    type: application
+    urls:
+    - apple-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-09-16T23:16:13.852048+02:00"
